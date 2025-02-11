@@ -40,3 +40,24 @@
 .read-the-docs {
   color: #888;
 }
+
+.mail-box {
+  border: 2px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+}
+
+.mail-box h2 {
+  color: #333;
+}
+
+.mail-box p {
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+.mail-box strong {
+  font-weight: bold;
+}
